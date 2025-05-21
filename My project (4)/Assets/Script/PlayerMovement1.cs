@@ -18,22 +18,29 @@ public class PlayerMovement : MonoBehaviour
         float moveX = Input.GetAxisRaw("Horizontal");
         float moveY = Input.GetAxisRaw("Vertical");
 
-        Vector2 direction = new Vector2(moveX, moveY).normalized;
+        // Reset flips
+        spriteRenderer.flipX = false;
+        spriteRenderer.flipY = false;
 
-        // Alleen draaien als er input is
-        if (direction != Vector2.zero)
+        if (moveX > 0) // Rechts
         {
-            if (moveX > 0) // Rechts
-                transform.rotation = Quaternion.Euler(0, 0, -90f);
-            else if (moveX < 0) // Links
-                transform.rotation = Quaternion.Euler(0, 0, 90f);
-            else if (moveY > 0) // Omhoog
-                transform.rotation = Quaternion.Euler(0, 0, 0f);
-            else if (moveY < 0) // Omlaag
-                transform.rotation = Quaternion.Euler(0, 0, 180f);
+            spriteRenderer.flipX = false;
+        }
+        else if (moveX < 0) // Links
+        {
+            spriteRenderer.flipX = true; // Spiegel horizontaal
+        }
+        else if (moveY > 0) // Omhoog
+        {
+            // geen flip
+        }
+        else if (moveY < 0) // Omlaag
+        {
+            spriteRenderer.flipX = true; // Spiegel verticaal
         }
 
-        // Verplaatsen
+        // Beweging toepassen (optioneel)
+        Vector2 direction = new Vector2(moveX, moveY).normalized;
         transform.position += (Vector3)direction * moveSpeed * Time.deltaTime;
     }
 
