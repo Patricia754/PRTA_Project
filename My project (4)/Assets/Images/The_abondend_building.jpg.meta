@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: cb82df36c507a0d4abdb504ff5c00ce3
+guid: c4895ef8938edc14a979f68b30ed568d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5788346438148469715
-    second: GeniusDungeon_0
+      213: 4576292002036331659
+    second: The_abondend_building_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,7 +100,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: GeniusDungeon_0
+      name: The_abondend_building_0
       rect:
         serializedVersion: 2
         x: 0
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3d3bcb2ea66545050800000000000000
-      internalID: 5788346438148469715
+      spriteID: b8436d16451428f30800000000000000
+      internalID: 4576292002036331659
       vertices: []
       indices: 
       edges: []
@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      The_abondend_building_0: 4576292002036331659
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
