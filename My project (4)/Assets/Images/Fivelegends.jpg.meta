@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: c9f4f5076b4f0f449b7db9ec6bc07e0a
+guid: e8b0c74a951a6b64f88d2148fe315296
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8482089556903980973
-    second: Poolcity_0
+      213: 9079853836077998534
+    second: Fivelegends_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,7 +100,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Poolcity_0
+      name: Fivelegends_0
       rect:
         serializedVersion: 2
         x: 0
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 35010bfec70994a80800000000000000
-      internalID: -8482089556903980973
+      spriteID: 6c1a5efe4fe120e70800000000000000
+      internalID: 9079853836077998534
       vertices: []
       indices: 
       edges: []
@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fivelegends_0: 9079853836077998534
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
