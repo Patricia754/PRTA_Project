@@ -5,7 +5,11 @@ BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, I
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Date: 2025-05-21T10:12:30Z
+=======
+Date: 2025-05-22T07:18:26Z
+>>>>>>> Stashed changes
 =======
 Date: 2025-05-22T07:18:26Z
 >>>>>>> Stashed changes
@@ -31,7 +35,11 @@ Logs/AssetImportWorker1.log
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 60084
+=======
+62463
+>>>>>>> Stashed changes
 =======
 62463
 >>>>>>> Stashed changes
@@ -89,6 +97,7 @@ C:/Users/Jarno/Documents/GitHub/PRTA_Project/My project (4)
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Player connection [33156]  Target information:
 
 Player connection [33156]  * "[IP] 10.11.16.85 [Port] 0 [Flags] 2 [Guid] 4236476404 [EditorId] 4236476404 [Version] 1048832 [Id] WindowsEditor(7,Lenovo070702) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
@@ -103,6 +112,12 @@ Player connection [36828]  Target information:
 
 Player connection [36828]  * "[IP] 10.11.16.26 [Port] 0 [Flags] 2 [Guid] 988902056 [EditorId] 988902056 [Version] 1048832 [Id] WindowsEditor(7,Patries) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
+=======
+Player connection [36828]  Target information:
+
+Player connection [36828]  * "[IP] 10.11.16.26 [Port] 0 [Flags] 2 [Guid] 988902056 [EditorId] 988902056 [Version] 1048832 [Id] WindowsEditor(7,Patries) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+>>>>>>> Stashed changes
 =======
 Player connection [36828]  Target information:
 
@@ -132,7 +147,11 @@ Library Redirect Path: Library/
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Refreshing native plugins compatible for Editor in 5.48 ms, found 4 plugins.
+=======
+Refreshing native plugins compatible for Editor in 3.82 ms, found 4 plugins.
+>>>>>>> Stashed changes
 =======
 Refreshing native plugins compatible for Editor in 3.82 ms, found 4 plugins.
 >>>>>>> Stashed changes
@@ -158,6 +177,7 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.1.2f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.1.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.1.2f1/Editor/Data/MonoBleedingEdge/etc'
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -211,11 +231,25 @@ Mono: successfully reloaded assembly
 Domain Reload Profiling: 827ms
 	BeginReloadAssembly (159ms)
 >>>>>>> Stashed changes
+=======
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56632
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.1.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002161 seconds.
+- Loaded All Assemblies, in  0.466 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.364 seconds
+Domain Reload Profiling: 827ms
+	BeginReloadAssembly (159ms)
+>>>>>>> Stashed changes
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -293,6 +327,24 @@ Domain Reload Profiling: 827ms
 		SetupLoadedEditorAssemblies (313ms)
 			LogAssemblyErrors (0ms)
 >>>>>>> Stashed changes
+=======
+	RebuildCommonClasses (42ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (58ms)
+	LoadAllAssembliesAndSetupDomain (193ms)
+		LoadAssemblies (154ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (190ms)
+			TypeCache.Refresh (188ms)
+				TypeCache.ScanAssembly (171ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (365ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (313ms)
+			LogAssemblyErrors (0ms)
+>>>>>>> Stashed changes
 			InitializePlatformSupportModulesInManaged (49ms)
 			SetLoadedEditorAssemblies (4ms)
 			BeforeProcessingInitializeOnLoad (65ms)
@@ -300,6 +352,9 @@ Domain Reload Profiling: 827ms
 			ProcessInitializeOnLoadMethodAttributes (59ms)
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -313,6 +368,7 @@ Domain Reload Profiling: 827ms
 Worker process is ready to serve import requests
 Import Worker Mode flag is 0x00
 Begin MonoManager ReloadAssembly
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -448,6 +504,48 @@ Domain Reload Profiling: 1727ms
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
 Refreshing native plugins compatible for Editor in 2.67 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
+=======
+- Loaded All Assemblies, in  0.886 seconds
+Refreshing native plugins compatible for Editor in 1.77 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.847 seconds
+Domain Reload Profiling: 1727ms
+	BeginReloadAssembly (192ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (37ms)
+	RebuildCommonClasses (39ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (44ms)
+	LoadAllAssembliesAndSetupDomain (593ms)
+		LoadAssemblies (437ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (262ms)
+			TypeCache.Refresh (192ms)
+				TypeCache.ScanAssembly (176ms)
+			BuildScriptInfoCaches (57ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (848ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (704ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (138ms)
+			ProcessInitializeOnLoadAttributes (432ms)
+			ProcessInitializeOnLoadMethodAttributes (123ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 2.67 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+>>>>>>> Stashed changes
 =======
 - Loaded All Assemblies, in  0.886 seconds
 Refreshing native plugins compatible for Editor in 1.77 ms, found 4 plugins.
@@ -761,6 +859,7 @@ Start importing Assets/YughuesFreeFlooringMaterials/Textures/T_YFFlM_08_s.tga us
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 >>>>>>> Stashed changes
 
 ========================================================================
@@ -821,6 +920,11 @@ Received Prepare
 ========================================================================
 Received Prepare
 >>>>>>> Stashed changes
+=======
+
+========================================================================
+Received Prepare
+>>>>>>> Stashed changes
 Refreshing native plugins compatible for Editor in 2.13 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
@@ -829,6 +933,9 @@ Memory consumption went from 144.4 MB to 142.6 MB.
 Total: 9.944600 ms (FindLiveObjects: 0.774300 ms CreateObjectMapping: 0.322200 ms MarkObjects: 8.320500 ms  DeleteObjects: 0.526300 ms)
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes

@@ -1952,7 +1952,11 @@ MonoBehaviour:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   target: {fileID: 1491998580}
+=======
+  target: {fileID: 1410273193}
+>>>>>>> Stashed changes
 =======
   target: {fileID: 1410273193}
 >>>>>>> Stashed changes
@@ -3779,7 +3783,11 @@ Transform:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 --- !u!1 &1491998575
+=======
+--- !u!1 &1410273192
+>>>>>>> Stashed changes
 =======
 --- !u!1 &1410273192
 >>>>>>> Stashed changes
@@ -3796,6 +3804,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -3833,6 +3842,15 @@ GameObject:
   m_Layer: 0
   m_Name: Player (1)
 >>>>>>> Stashed changes
+=======
+  - component: {fileID: 1410273193}
+  - component: {fileID: 1410273197}
+  - component: {fileID: 1410273196}
+  - component: {fileID: 1410273195}
+  - component: {fileID: 1410273194}
+  m_Layer: 0
+  m_Name: Player (1)
+>>>>>>> Stashed changes
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3841,8 +3859,11 @@ GameObject:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 --- !u!61 &1491998576
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -3865,6 +3886,9 @@ Transform:
 --- !u!61 &1410273194
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -3878,7 +3902,11 @@ BoxCollider2D:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 1491998575}
+=======
+  m_GameObject: {fileID: 1410273192}
+>>>>>>> Stashed changes
 =======
   m_GameObject: {fileID: 1410273192}
 >>>>>>> Stashed changes
@@ -3930,7 +3958,11 @@ BoxCollider2D:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 --- !u!114 &1491998577
+=======
+--- !u!114 &1410273195
+>>>>>>> Stashed changes
 =======
 --- !u!114 &1410273195
 >>>>>>> Stashed changes
@@ -3948,7 +3980,11 @@ MonoBehaviour:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 1491998575}
+=======
+  m_GameObject: {fileID: 1410273192}
+>>>>>>> Stashed changes
 =======
   m_GameObject: {fileID: 1410273192}
 >>>>>>> Stashed changes
@@ -3967,7 +4003,11 @@ MonoBehaviour:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 --- !u!50 &1491998578
+=======
+--- !u!50 &1410273196
+>>>>>>> Stashed changes
 =======
 --- !u!50 &1410273196
 >>>>>>> Stashed changes
@@ -3986,7 +4026,11 @@ Rigidbody2D:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 1491998575}
+=======
+  m_GameObject: {fileID: 1410273192}
+>>>>>>> Stashed changes
 =======
   m_GameObject: {fileID: 1410273192}
 >>>>>>> Stashed changes
@@ -4018,7 +4062,11 @@ Rigidbody2D:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 --- !u!212 &1491998579
+=======
+--- !u!212 &1410273197
+>>>>>>> Stashed changes
 =======
 --- !u!212 &1410273197
 >>>>>>> Stashed changes
@@ -4036,7 +4084,11 @@ SpriteRenderer:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 1491998575}
+=======
+  m_GameObject: {fileID: 1410273192}
+>>>>>>> Stashed changes
 =======
   m_GameObject: {fileID: 1410273192}
 >>>>>>> Stashed changes
@@ -4081,8 +4133,13 @@ SpriteRenderer:
   m_SortingLayer: 0
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_SortingOrder: 6
   m_Sprite: {fileID: -1854253849714482944, guid: ee66b6b24d7b237479c0e19228c51ac9, type: 3}
+=======
+  m_SortingOrder: 8
+  m_Sprite: {fileID: 4483504832982471387, guid: 9ad9d263b3dce974db70c3ca1296764f, type: 3}
+>>>>>>> Stashed changes
 =======
   m_SortingOrder: 8
   m_Sprite: {fileID: 4483504832982471387, guid: 9ad9d263b3dce974db70c3ca1296764f, type: 3}
@@ -4097,6 +4154,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 --- !u!4 &1491998580
 Transform:
@@ -4256,6 +4314,8 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -5476,6 +5536,10 @@ SceneRoots:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+  - {fileID: 1410273193}
+>>>>>>> Stashed changes
 =======
   - {fileID: 1410273193}
 >>>>>>> Stashed changes
