@@ -445,6 +445,7 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 38.52}
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 --- !u!1 &221806405
 GameObject:
   m_ObjectHideFlags: 0
@@ -621,6 +622,8 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -1132,7 +1135,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   target: {fileID: 69695199}
+=======
+  target: {fileID: 2002217926}
+>>>>>>> Stashed changes
 =======
   target: {fileID: 2002217926}
 >>>>>>> Stashed changes
@@ -1597,7 +1604,11 @@ SceneRoots:
   - {fileID: 1837661931}
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   - {fileID: 69695199}
+=======
+  - {fileID: 2002217926}
+>>>>>>> Stashed changes
 =======
   - {fileID: 2002217926}
 >>>>>>> Stashed changes
