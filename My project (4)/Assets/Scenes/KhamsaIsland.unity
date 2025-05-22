@@ -273,7 +273,11 @@ MonoBehaviour:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   target: {fileID: 669986268}
+=======
+  target: {fileID: 1825461893}
+>>>>>>> Stashed changes
 =======
   target: {fileID: 1825461893}
 >>>>>>> Stashed changes
@@ -1518,12 +1522,22 @@ GameObject:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   - component: {fileID: 1403151627}
   - component: {fileID: 1403151626}
   - component: {fileID: 1403151629}
   - component: {fileID: 1403151628}
   m_Layer: 0
   m_Name: Minnimap
+=======
+  - component: {fileID: 1825461893}
+  - component: {fileID: 1825461892}
+  - component: {fileID: 1825461891}
+  - component: {fileID: 1825461890}
+  - component: {fileID: 1825461889}
+  m_Layer: 0
+  m_Name: Player (1)
+>>>>>>> Stashed changes
 =======
   - component: {fileID: 1825461893}
   - component: {fileID: 1825461892}
@@ -1569,8 +1583,13 @@ GameObject:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 --- !u!212 &1403151626
 SpriteRenderer:
+=======
+--- !u!61 &1825461889
+BoxCollider2D:
+>>>>>>> Stashed changes
 =======
 --- !u!61 &1825461889
 BoxCollider2D:
@@ -1591,6 +1610,7 @@ BoxCollider2D:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -1667,6 +1687,8 @@ Transform:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
   m_GameObject: {fileID: 1825461888}
   m_Enabled: 1
   serializedVersion: 3
@@ -1711,6 +1733,9 @@ Transform:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -1727,7 +1752,11 @@ MonoBehaviour:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 1403151625}
+=======
+  m_GameObject: {fileID: 1825461888}
+>>>>>>> Stashed changes
 =======
   m_GameObject: {fileID: 1825461888}
 >>>>>>> Stashed changes
@@ -1749,8 +1778,13 @@ MonoBehaviour:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   moveSpeed: 4
 --- !u!50 &1403151629
+=======
+  moveSpeed: 5
+--- !u!50 &1825461891
+>>>>>>> Stashed changes
 =======
   moveSpeed: 5
 --- !u!50 &1825461891
@@ -1777,7 +1811,11 @@ Rigidbody2D:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 1403151625}
+=======
+  m_GameObject: {fileID: 1825461888}
+>>>>>>> Stashed changes
 =======
   m_GameObject: {fileID: 1825461888}
 >>>>>>> Stashed changes
@@ -1813,7 +1851,10 @@ Rigidbody2D:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -1893,6 +1934,9 @@ Transform:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -1917,7 +1961,11 @@ SceneRoots:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   - {fileID: 669986268}
+=======
+  - {fileID: 1825461893}
+>>>>>>> Stashed changes
 =======
   - {fileID: 1825461893}
 >>>>>>> Stashed changes

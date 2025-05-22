@@ -447,6 +447,7 @@ Transform:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 --- !u!1 &221806405
 GameObject:
   m_ObjectHideFlags: 0
@@ -623,6 +624,8 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -1140,7 +1143,11 @@ MonoBehaviour:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   target: {fileID: 69695199}
+=======
+  target: {fileID: 2002217926}
+>>>>>>> Stashed changes
 =======
   target: {fileID: 2002217926}
 >>>>>>> Stashed changes
@@ -1613,7 +1620,11 @@ SceneRoots:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   - {fileID: 69695199}
+=======
+  - {fileID: 2002217926}
+>>>>>>> Stashed changes
 =======
   - {fileID: 2002217926}
 >>>>>>> Stashed changes
