@@ -270,7 +270,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   target: {fileID: 669986268}
+=======
+  target: {fileID: 1825461893}
+>>>>>>> Stashed changes
 =======
   target: {fileID: 1825461893}
 >>>>>>> Stashed changes
@@ -1503,6 +1507,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   - component: {fileID: 1403151627}
   - component: {fileID: 1403151626}
   - component: {fileID: 1403151629}
@@ -1518,14 +1523,28 @@ GameObject:
   m_Layer: 0
   m_Name: Player (1)
 >>>>>>> Stashed changes
+=======
+  - component: {fileID: 1825461893}
+  - component: {fileID: 1825461892}
+  - component: {fileID: 1825461891}
+  - component: {fileID: 1825461890}
+  - component: {fileID: 1825461889}
+  m_Layer: 0
+  m_Name: Player (1)
+>>>>>>> Stashed changes
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 --- !u!212 &1403151626
 SpriteRenderer:
+=======
+--- !u!61 &1825461889
+BoxCollider2D:
+>>>>>>> Stashed changes
 =======
 --- !u!61 &1825461889
 BoxCollider2D:
@@ -1534,6 +1553,7 @@ BoxCollider2D:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
   m_GameObject: {fileID: 1403151625}
   m_Enabled: 1
@@ -1601,6 +1621,8 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1403151628
 =======
+=======
+>>>>>>> Stashed changes
   m_GameObject: {fileID: 1825461888}
   m_Enabled: 1
   serializedVersion: 3
@@ -1642,6 +1664,9 @@ Transform:
   m_Size: {x: 0.23, y: 0.17}
   m_EdgeRadius: 0
 --- !u!114 &1825461890
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1649,7 +1674,11 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 1403151625}
+=======
+  m_GameObject: {fileID: 1825461888}
+>>>>>>> Stashed changes
 =======
   m_GameObject: {fileID: 1825461888}
 >>>>>>> Stashed changes
@@ -1659,8 +1688,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   moveSpeed: 4
 --- !u!50 &1403151629
+=======
+  moveSpeed: 5
+--- !u!50 &1825461891
+>>>>>>> Stashed changes
 =======
   moveSpeed: 5
 --- !u!50 &1825461891
@@ -1672,7 +1706,11 @@ Rigidbody2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 1403151625}
+=======
+  m_GameObject: {fileID: 1825461888}
+>>>>>>> Stashed changes
 =======
   m_GameObject: {fileID: 1825461888}
 >>>>>>> Stashed changes
@@ -1696,7 +1734,10 @@ Rigidbody2D:
   m_CollisionDetection: 0
   m_Constraints: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 --- !u!212 &1825461892
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1767,6 +1808,9 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
@@ -1782,7 +1826,11 @@ SceneRoots:
   - {fileID: 308339129}
   - {fileID: 1389254681}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   - {fileID: 669986268}
+=======
+  - {fileID: 1825461893}
+>>>>>>> Stashed changes
 =======
   - {fileID: 1825461893}
 >>>>>>> Stashed changes

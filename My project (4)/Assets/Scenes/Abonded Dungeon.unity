@@ -1950,7 +1950,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   target: {fileID: 1491998580}
+=======
+  target: {fileID: 1410273193}
+>>>>>>> Stashed changes
 =======
   target: {fileID: 1410273193}
 >>>>>>> Stashed changes
@@ -3769,7 +3773,11 @@ Transform:
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 --- !u!1 &1491998575
+=======
+--- !u!1 &1410273192
+>>>>>>> Stashed changes
 =======
 --- !u!1 &1410273192
 >>>>>>> Stashed changes
@@ -3780,6 +3788,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
   - component: {fileID: 1491998580}
   - component: {fileID: 1491998579}
@@ -3797,14 +3806,26 @@ GameObject:
   m_Layer: 0
   m_Name: Player (1)
 >>>>>>> Stashed changes
+=======
+  - component: {fileID: 1410273193}
+  - component: {fileID: 1410273197}
+  - component: {fileID: 1410273196}
+  - component: {fileID: 1410273195}
+  - component: {fileID: 1410273194}
+  m_Layer: 0
+  m_Name: Player (1)
+>>>>>>> Stashed changes
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 --- !u!61 &1491998576
 =======
+=======
+>>>>>>> Stashed changes
 --- !u!4 &1410273193
 Transform:
   m_ObjectHideFlags: 0
@@ -3821,6 +3842,9 @@ Transform:
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1410273194
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3828,7 +3852,11 @@ BoxCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 1491998575}
+=======
+  m_GameObject: {fileID: 1410273192}
+>>>>>>> Stashed changes
 =======
   m_GameObject: {fileID: 1410273192}
 >>>>>>> Stashed changes
@@ -3872,7 +3900,11 @@ BoxCollider2D:
   m_Size: {x: 0.23, y: 0.17}
   m_EdgeRadius: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 --- !u!114 &1491998577
+=======
+--- !u!114 &1410273195
+>>>>>>> Stashed changes
 =======
 --- !u!114 &1410273195
 >>>>>>> Stashed changes
@@ -3882,7 +3914,11 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 1491998575}
+=======
+  m_GameObject: {fileID: 1410273192}
+>>>>>>> Stashed changes
 =======
   m_GameObject: {fileID: 1410273192}
 >>>>>>> Stashed changes
@@ -3893,7 +3929,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 5
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 --- !u!50 &1491998578
+=======
+--- !u!50 &1410273196
+>>>>>>> Stashed changes
 =======
 --- !u!50 &1410273196
 >>>>>>> Stashed changes
@@ -3904,7 +3944,11 @@ Rigidbody2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 1491998575}
+=======
+  m_GameObject: {fileID: 1410273192}
+>>>>>>> Stashed changes
 =======
   m_GameObject: {fileID: 1410273192}
 >>>>>>> Stashed changes
@@ -3928,7 +3972,11 @@ Rigidbody2D:
   m_CollisionDetection: 0
   m_Constraints: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 --- !u!212 &1491998579
+=======
+--- !u!212 &1410273197
+>>>>>>> Stashed changes
 =======
 --- !u!212 &1410273197
 >>>>>>> Stashed changes
@@ -3937,6 +3985,7 @@ SpriteRenderer:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
   m_GameObject: {fileID: 1491998575}
 =======
@@ -4072,6 +4121,9 @@ SpriteRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1655287751}
+=======
+  m_GameObject: {fileID: 1410273192}
+>>>>>>> Stashed changes
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -4088,7 +4140,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  - {fileID: 2100000, guid: 9dfc825aed78fcd4ba02077103263b40, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -4108,8 +4160,13 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
+<<<<<<< Updated upstream
   m_SortingOrder: 3
   m_Sprite: {fileID: 7482667652216324306, guid: 75f5f34dc1b5347e0b8351032682f224, type: 3}
+=======
+  m_SortingOrder: 8
+  m_Sprite: {fileID: 4483504832982471387, guid: 9ad9d263b3dce974db70c3ca1296764f, type: 3}
+>>>>>>> Stashed changes
 =======
   m_SortingOrder: 8
   m_Sprite: {fileID: 4483504832982471387, guid: 9ad9d263b3dce974db70c3ca1296764f, type: 3}
@@ -4124,6 +4181,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 --- !u!4 &1655287755
 Transform:
@@ -4140,6 +4198,8 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 --- !u!1 &1670101975
@@ -5354,6 +5414,10 @@ SceneRoots:
   m_Roots:
   - {fileID: 886230037}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+  - {fileID: 1410273193}
+>>>>>>> Stashed changes
 =======
   - {fileID: 1410273193}
 >>>>>>> Stashed changes

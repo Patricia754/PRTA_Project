@@ -3,7 +3,11 @@ Built from '6000.1/staging' branch; Version is '6000.1.2f1 (8e2281df4c52) revisi
 OS: 'Windows 11  (10.0.26100) 64bit Core' Language: 'nl' Physical Memory: 16167 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Date: 2025-05-21T10:12:30Z
+=======
+Date: 2025-05-22T07:18:26Z
+>>>>>>> Stashed changes
 =======
 Date: 2025-05-22T07:18:26Z
 >>>>>>> Stashed changes
@@ -21,7 +25,11 @@ C:/Users/Jarno/Documents/GitHub/PRTA_Project/My project (4)
 Logs/AssetImportWorker0.log
 -srvPort
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 60084
+=======
+62463
+>>>>>>> Stashed changes
 =======
 62463
 >>>>>>> Stashed changes
@@ -71,6 +79,7 @@ C:/Users/Jarno/Documents/GitHub/PRTA_Project/My project (4)
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Player connection [14132]  Target information:
 
 Player connection [14132]  * "[IP] 10.11.16.85 [Port] 0 [Flags] 2 [Guid] 1281818635 [EditorId] 1281818635 [Version] 1048832 [Id] WindowsEditor(7,Lenovo070702) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
@@ -85,6 +94,12 @@ Player connection [8256]  Target information:
 
 Player connection [8256]  * "[IP] 10.11.16.26 [Port] 0 [Flags] 2 [Guid] 2338529850 [EditorId] 2338529850 [Version] 1048832 [Id] WindowsEditor(7,Patries) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
+=======
+Player connection [8256]  Target information:
+
+Player connection [8256]  * "[IP] 10.11.16.26 [Port] 0 [Flags] 2 [Guid] 2338529850 [EditorId] 2338529850 [Version] 1048832 [Id] WindowsEditor(7,Patries) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+>>>>>>> Stashed changes
 Player connection [8256] Host joined multi-casting on [225.0.0.222:54997]...
 Player connection [8256] Host joined alternative multi-casting on [225.0.0.222:34997]...
 JobSystem: Creating JobQueue using job-worker-count value 7
@@ -100,7 +115,11 @@ Library Redirect Path: Library/
 [Physics::Module] Integration Version: 1.0.0
 [Physics::Module] Threading Mode: Multi-Threaded
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Refreshing native plugins compatible for Editor in 3.17 ms, found 4 plugins.
+=======
+Refreshing native plugins compatible for Editor in 3.98 ms, found 4 plugins.
+>>>>>>> Stashed changes
 =======
 Refreshing native plugins compatible for Editor in 3.98 ms, found 4 plugins.
 >>>>>>> Stashed changes
@@ -120,6 +139,7 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.1.2f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.1.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.1.2f1/Editor/Data/MonoBleedingEdge/etc'
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56696
 Begin MonoManager ReloadAssembly
@@ -145,11 +165,25 @@ Mono: successfully reloaded assembly
 Domain Reload Profiling: 807ms
 	BeginReloadAssembly (151ms)
 >>>>>>> Stashed changes
+=======
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56432
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.1.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002361 seconds.
+- Loaded All Assemblies, in  0.440 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.369 seconds
+Domain Reload Profiling: 807ms
+	BeginReloadAssembly (151ms)
+>>>>>>> Stashed changes
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 	RebuildCommonClasses (54ms)
 	RebuildNativeTypeToScriptingClass (20ms)
@@ -189,11 +223,32 @@ Domain Reload Profiling: 807ms
 		RebuildScriptCaches (0ms)
 		SetupLoadedEditorAssemblies (314ms)
 			LogAssemblyErrors (0ms)
+=======
+	RebuildCommonClasses (40ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (56ms)
+	LoadAllAssembliesAndSetupDomain (179ms)
+		LoadAssemblies (146ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (176ms)
+			TypeCache.Refresh (173ms)
+				TypeCache.ScanAssembly (156ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (370ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (314ms)
+			LogAssemblyErrors (0ms)
+>>>>>>> Stashed changes
 			InitializePlatformSupportModulesInManaged (51ms)
 			SetLoadedEditorAssemblies (3ms)
 			BeforeProcessingInitializeOnLoad (64ms)
 			ProcessInitializeOnLoadAttributes (137ms)
 			ProcessInitializeOnLoadMethodAttributes (59ms)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
@@ -203,6 +258,7 @@ Domain Reload Profiling: 807ms
 Worker process is ready to serve import requests
 Import Worker Mode flag is 0x00
 Begin MonoManager ReloadAssembly
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 - Loaded All Assemblies, in  1.026 seconds
 Refreshing native plugins compatible for Editor in 1.34 ms, found 4 plugins.
@@ -388,6 +444,34 @@ Domain Reload Profiling: 1742ms
 	FinalizeReload (854ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
+=======
+- Loaded All Assemblies, in  0.895 seconds
+Refreshing native plugins compatible for Editor in 2.18 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.853 seconds
+Domain Reload Profiling: 1742ms
+	BeginReloadAssembly (190ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (32ms)
+	RebuildCommonClasses (40ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (45ms)
+	LoadAllAssembliesAndSetupDomain (604ms)
+		LoadAssemblies (436ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (278ms)
+			TypeCache.Refresh (200ms)
+				TypeCache.ScanAssembly (181ms)
+			BuildScriptInfoCaches (63ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (854ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+>>>>>>> Stashed changes
 		SetupLoadedEditorAssemblies (709ms)
 			LogAssemblyErrors (0ms)
 			InitializePlatformSupportModulesInManaged (2ms)
@@ -659,5 +743,9 @@ Prepare: number of updated asset objects reloaded= 0
 Editor requested this worker to shutdown with reason: balancing worker count downwards
 AssetImportWorker is now disconnected from the server
 Process exiting
+<<<<<<< Updated upstream
+Exiting without the bug reporter. Application will terminate with return code 0
+>>>>>>> Stashed changes
+=======
 Exiting without the bug reporter. Application will terminate with return code 0
 >>>>>>> Stashed changes
