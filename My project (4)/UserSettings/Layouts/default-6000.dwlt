@@ -2012,7 +2012,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Scenes
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -2022,15 +2022,15 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Jarno\Documents\GitHub\PRTA_Project\My project (4)
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: 78b70000
-    m_LastClickedID: 46968
+    m_SelectedIDs: bab80000
+    m_LastClickedID: 47290
     m_ExpandedIDs: 0000000076b7000078b700007ab700007cb700007eb7000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -2700,9 +2700,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: -44.043625, y: -19.827389, z: -0.11725495}
+    m_Target: {x: -37.870506, y: -21.361645, z: -0.118011035}
     speed: 2
-    m_Value: {x: -44.054672, y: -19.532793, z: -0.1274922}
+    m_Value: {x: -36.725697, y: -21.192795, z: -0.10862289}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -2752,9 +2752,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 21.725607
+    m_Target: 21.80125
     speed: 2
-    m_Value: 22.749327
+    m_Value: 20.86244
   m_Ortho:
     m_Target: 1
     speed: 2
