@@ -1,18 +1,19 @@
 using UnityEngine;
 using UnityEngine.Video;
-using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
-public class CutsceneTrigger : MonoBehaviour
+public class CutsceneEndLoader : MonoBehaviour
 {
     public VideoPlayer videoPlayer;
-    public GameObject cutsceneUI;
 
-    void OnTriggerEnter2D(Collider2D other)
+    void Start()
     {
-        if (other.CompareTag("Player"))
-        {
-            cutsceneUI.SetActive(true);
-            videoPlayer.Play();
-        }
+        videoPlayer.loopPointReached += OnVideoEnd;
+        videoPlayer.Play();
+    }
+
+    void OnVideoEnd(VideoPlayer vp)
+    {
+        SceneManager.LoadScene("4"); // of SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
 }

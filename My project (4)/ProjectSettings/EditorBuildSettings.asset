@@ -31,7 +31,7 @@ EditorBuildSettings:
     guid: 2488612a6c3bd4a4baac750f870e7732
   - enabled: 1
     path: Assets/Scenes/Cutscene.unity
-    guid: 342e46ce858442045be0a5e74880e5fe
+    guid: 1498397950d965740b1011519fd14a2e
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
